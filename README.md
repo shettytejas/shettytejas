@@ -1,17 +1,36 @@
-# Hello, GitHub!
+# Namaste, Github! 👋
 
-### 👋 My name is Tejas Shetty.
-- 👀 I’m heavily into Full-Stack Development, Cyber Security, an itsy bit of CV and Machine Learning, and some more areas.
-- ✍️ I generally work with languages like Java, Python, JavaScript (ES6+), HTML5, and CSS3. (Now looking forward to work with TypeScript soon 🙂)
-- 👨‍💻 I love working with technologies like Spring Framework (especially Spring Boot), NextJS, and ReactJS. (Many more to add in the near future 😉).
-- 📫 Wanna have a chat? Hit me up on [LinkedIn](https://www.linkedin.com/in/shetty-tejas)
+I'm Tejas Shetty, a passionate Backend Web Developer with a knack for diving into Frontend technologies when needed. I love crafting robust solutions that power the digital world.
 
+## 💼 About Me
 
-###### 💞️💞
-###### I'd like to use this area to remind you that you're a beautiful human being and I'm proud of you 😄 Keep being the best version of yourself, and yes, stay hydrated 😉
-###### 💞️💞
+- 💻 I'm a programming language polyglot with proficiency in:
+  - Ruby 💎
+  - JavaScript (ES6+) 🚀
+  - Python 🐍
+  - Java ☕
 
-<!---
-Shetty-Tejas/Shetty-Tejas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🛠️ I'm well-versed in various frameworks, including:
+  - Ruby on Rails 🚅
+  - SvelteKit 🛠️
+  - Next.js 🌐
+  - And a touch of React.js ⚛️
+
+- 🌱 Currently, I'm working on building my portfolio website and a captivating blog site. In the pipeline, I have plans to develop a Product Management System 💼.
+
+## 🌐 Connect with Me
+
+Let's connect and share ideas! You can find me on:
+
+- [Instagram 📸](https://www.instagram.com/_shettytejas_)
+- [LinkedIn 💼](https://www.linkedin.com/in/shetty-tejas)
+- [Twitter 🐦](https://twitter.com/_shettytejas_)
+
+## 💡 Competitive Programming Enthusiast
+
+I also enjoy sharpening my problem-solving skills on platforms like:
+
+- [HackerRank 🏆](https://www.hackerrank.com/shettytejas)
+- [LeetCode 🧠](https://leetcode.com/shettytejas)
+
+Feel free to explore my repositories, and don't hesitate to reach out if you want to collaborate or chat about technology. Let's build something amazing together! 🚀
