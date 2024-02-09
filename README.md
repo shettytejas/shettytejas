@@ -6,7 +6,7 @@ I'm Tejas Shetty, a passionate Backend Web Developer with a knack for diving int
 
 - 💻 I'm a programming language polyglot with proficiency in:
   - Ruby 💎
-  - JavaScript (ES6+) 🚀
+  - JavaScript 🚀
   - Python 🐍
   - Java ☕
 
@@ -16,7 +16,7 @@ I'm Tejas Shetty, a passionate Backend Web Developer with a knack for diving int
   - Next.js 🌐
   - And a touch of React.js ⚛️
 
-- 🌱 Currently, I'm working on building my portfolio website and a captivating blog site. In the pipeline, I have plans to develop a Product Management System 💼.
+<!-- - 🌱 Currently, I'm working on building my portfolio website and a captivating blog site. In the pipeline, I have plans to develop a Product Management System 💼. -->
 
 ## 🌐 Connect with Me
 
