@@ -1,22 +1,18 @@
 # Namaste, Github! 👋
 
-I'm Tejas Shetty, a passionate Backend Web Developer with a knack for diving into Frontend technologies when needed. I love crafting robust solutions that power the digital world.
+I'm Tejas, a passionate web developer with a knack for diving into systems engineering. I love crafting robust solutions that power the digital world. Also, OpenSource++!
 
 ## 💼 About Me
 
 - 💻 I'm a programming language polyglot with proficiency in:
   - Ruby 💎
   - JavaScript 🚀
-  - Python 🐍
-  - Java ☕
+  - Go 🐹
 
-- 🛠️ I'm well-versed in various frameworks, including:
+- 🛠️ I'm well-versed in various web frameworks, including:
   - Ruby on Rails 🚅
   - SvelteKit 🛠️
   - Next.js 🌐
-  - And a touch of React.js ⚛️
-
-<!-- - 🌱 Currently, I'm working on building my portfolio website and a captivating blog site. In the pipeline, I have plans to develop a Product Management System 💼. -->
 
 ## 🌐 Connect with Me
 
