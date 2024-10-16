@@ -27,6 +27,6 @@ Let's connect and share ideas! You can find me on:
 I also enjoy sharpening my problem-solving skills on platforms like:
 
 - [HackerRank 🏆](https://www.hackerrank.com/shettytejas)
-- [LeetCode 🧠](https://leetcode.com/shettytejas)
+- [LeetCode 🧠](https://leetcode.com/shetty-tejas)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you want to collaborate or chat about technology. Let's build something amazing together! 🚀
